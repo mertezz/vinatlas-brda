@@ -1,0 +1,6 @@
+data/
+.venv/
+.idea/
+.claude/
+__pycache__/
+*.py[cod]
